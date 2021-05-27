@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestCRUDDemoService", "RestCRUDDemoService\RestCRUDDemoService.csproj", "{852FE276-516F-4B3B-997A-65F60394F5DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeCRUDWebApp", "EmployeeCRUDWebApp\EmployeeCRUDWebApp.csproj", "{DAD36EAF-F39C-4BFA-800B-7A14D27884BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{852FE276-516F-4B3B-997A-65F60394F5DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{852FE276-516F-4B3B-997A-65F60394F5DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{852FE276-516F-4B3B-997A-65F60394F5DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{852FE276-516F-4B3B-997A-65F60394F5DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAD36EAF-F39C-4BFA-800B-7A14D27884BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAD36EAF-F39C-4BFA-800B-7A14D27884BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAD36EAF-F39C-4BFA-800B-7A14D27884BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAD36EAF-F39C-4BFA-800B-7A14D27884BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3E742E5-A0F0-47C8-BC27-F8E5D3887F23}
+	EndGlobalSection
+EndGlobal
